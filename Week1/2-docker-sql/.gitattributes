@@ -1,1 +1,7 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.csv.gz filter=lfs diff=lfs merge=lfs -text
+firstmodule/2-docker-sql/ny_taxi_postgres_data/base/16384/32790 filter=lfs diff=lfs merge=lfs -text
+firstmodule/2-docker-sql/ny_taxi_postgres_data/base/16384/32804 filter=lfs diff=lfs merge=lfs -text
 firstmodule/2-docker-sql/yellow_tripdata_2021-01.csv filter=lfs diff=lfs merge=lfs -text
+firstmodule/2-docker-sql/ny_taxi_postgres_data/base/16384/* filter=lfs diff=lfs merge=lfs -text
