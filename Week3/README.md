@@ -1,5 +1,6 @@
 # Data Warehousing : 
 OLAP VS OLTP:
+![Alt text]("C:\Users\NIARE\Git-images\OLAP.png")
 
 ![OLAP-OLTP](https://github.com/user-attachments/assets/80a9fd44-3167-44df-b67b-52058d5ac797)
 ![Screenshot 2025-02-05 204010](https://github.com/user-attachments/assets/bfbe409e-8623-4139-a81c-a3b25fb187c0)
